@@ -111,3 +111,4 @@ The child projects are free to modify the inherited configuration if required.
 
 #### References:  
 * https://www.baeldung.com/maven-plugin-management
+* **Override Maven Plugin Configuration from Parent**:  https://www.baeldung.com/maven-plugin-override-parent
