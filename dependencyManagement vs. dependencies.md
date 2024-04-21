@@ -57,4 +57,6 @@ This is where &lt;dependencyManagement&gt; comes into play. When you add this to
 
 And, obviously, you don't do it for Child C, and thus your module remains lean.
 
-#### Reference:  https://stackoverflow.com/questions/2619598/differences-between-dependencymanagement-and-dependencies-in-maven
+#### References:  
+* https://stackoverflow.com/questions/2619598/differences-between-dependencymanagement-and-dependencies-in-maven
+* https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#dependency-management
