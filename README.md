@@ -12,3 +12,6 @@
 #### Awesome Maven lectures:
     1) https://www.baeldung.com/category/maven
 
+#### Understand complete pom.xml file elements
+    1) https://maven.apache.org/pom.html     -->   (VVI, must look)
+
